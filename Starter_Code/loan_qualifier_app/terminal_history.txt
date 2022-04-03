@@ -1,0 +1,50 @@
+  586  python test_question.py
+  587  cd test_question/
+  588  ls
+  589  python test_question.py 
+  590  python test_question.py 
+  591  python test_question.py 
+  592  python test_question.py 
+  593  python test_question.py 
+  594  python test_question.py 
+  595  ls
+  596  cd ..
+  597  ls
+  598  cd ..
+  599  ls
+  600  cd module_II/
+  601  ls
+  602  cd ..
+  603  ls
+  604  cd module_II_challenge/
+  605  cd module_II__challenge/
+  606  ls
+  607  ls
+  608  cd Starter_Code/
+  609  ls
+  610  cd loan_qualifier_app/
+  611  ls
+  612  python app.py
+  613  python app.py
+  614  python app.py
+  615  python app.py
+  616  python app.py
+  617  python app.py
+  618  python app.py
+  619  python app.py
+  620  ls
+  621  python app.py
+  622  ls
+  623  cd data/
+  624  ls
+  625  mkdir willing_lenders
+  626  ls
+  627  cd willing_lenders/
+  628  ls
+  629  cd ..
+  630  ls
+  631  cd ..
+  632  ls
+  633  python app.py
+  634  python app.py
+  635  history 50 > terminal_history.txt
