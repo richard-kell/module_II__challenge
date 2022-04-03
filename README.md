@@ -11,5 +11,6 @@
  **Saving Data**
  **Save data into the "willing_lenders" folder located inside the "/data" folder.**</br>
 example: _Enter File Name(.csv): data/willing_lenders/file_name.csv_</br>
+**IMPORTANT -- Make sure to have the .csv extension**
  
 
